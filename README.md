@@ -2,7 +2,18 @@
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+## Deploy your own 
+Deploy URL : https://react-next-spotify-clone.vercel.app/
+
+Tech:
+  - Next.js 12
+  - react
+  - debounce -prevent yourself to spamming api
+  - tailwindcss
+  - spotify api
+  - OAUTH J(access / refresh) token    
+  - NextAuth
+  - recoil
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
