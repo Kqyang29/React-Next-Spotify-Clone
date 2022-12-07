@@ -11,9 +11,15 @@ Tech:
   - debounce -prevent yourself to spamming api
   - tailwindcss
   - spotify api
-  - OAUTH J(access / refresh) token    
+  - OAUTH JWT (access / refresh) token    
   - NextAuth
   - recoil
+
+Features:
+  - User login with Spotify Account
+  - Play and Pause music
+  - show playlist in center page
+  - setup the volume
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
