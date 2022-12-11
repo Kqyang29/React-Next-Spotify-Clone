@@ -20,6 +20,10 @@ Features:
   - Play and Pause music
   - show playlist in center page
   - setup the volume
+  
+Bug:
+  - need to click the Avatar and sign in first then can use the website
+  - middleware Problem
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
